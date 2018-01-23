@@ -2,13 +2,16 @@
 The best way to quickly generate bash aliases.
 
 Bash Aliases are easily one of my favourite parts of bash, but they're a little bit of a hassle to set up.
+
 That's where aliasplease comes in.
 
 ## Usage
 "*aliasplease*", followed by the name of your command, then the command you want to alias.
 
 For example:
+
 ```aliasplease hello echo "world"```
+
 If you entered the command "*hello*", the command "*echo "world"*" would run.
 
 **Some Notes:**
