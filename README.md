@@ -29,13 +29,16 @@ The following is a collection of my favourite/most useful aliases.
 
 ### brew install -> bi
 it's 10 characters too long really, isn't it.
+
 ```aliasplease bi brew install \$@```
 
 ### ffmpeg -> tomp4
 When you do a screen recording it is auto exported as mov, which is just bloody annoying.
 So in order to actually make it useful (and by that I mean uploadable) on sites like Twitter, use ffmpeg to convert it easily.
+
 ```aliasplease tomp4 ffmpeg -i \$@```
 
 ### git status -> gs
 makes life easier really
+
 ```aliasplease git status```
