@@ -44,4 +44,4 @@ So in order to actually make it useful (and by that I mean uploadable) on sites 
 ### git status -> gs
 makes life easier really
 
-```aliasplease git status```
+```aliasplease gs git status```
