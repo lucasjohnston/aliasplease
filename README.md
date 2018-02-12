@@ -27,6 +27,9 @@ We'll be creating a new .bash_profile for you in that case.
 Just go into the bash_profile file in this repo and copy and paste the code into your own bash_profile.
 It's as simple as that.
 
+# Do you zsh?
+If so, follow all the same instructions, replacing '.bash_profile' with '.zshrc'!
+
 # Useful aliases to have!
 The following is a collection of my favourite/most useful aliases.
 
